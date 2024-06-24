@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Data files
+data/horse_racing_data/
+*.zip
+
+# Environments
+.env
+.venv
+
+# MacOS files
+.DS_Store
+
+# Logs
+*.log
+
+# Temporary files
+*.temp
+*.tmp
+
+# Config files
+*.config
+
+# Ignoring system files
+*.swp
+*~
