@@ -41,7 +41,7 @@ You need to have the following libraries and tools installed:
 Clone the repository to your local machine and navigate to the project directory:
 
 ```sh
-git clone https://github.com/yourusername/horse-racing-prediction.git
+git clone https://github.com/apostolospanas/horse-racing-prediction.git
 cd horse-racing-prediction
 Install the required Python packages:
 
